@@ -11411,6 +11411,13 @@ section.cta {
   background-image: url("../assets/img/garda.webp");
   background-position: center;
   background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: stretch;
+  align-content: space-around;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
 }
 section.cta .cta-content {
   position: relative;
