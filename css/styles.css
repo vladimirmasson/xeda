@@ -11544,6 +11544,9 @@ footer a:hover, footer a:active, footer a:focus {
   background-size:cover;
   padding-top: 9.5rem;
   padding-bottom: 5rem;
+  height: 100%;
+  min-height: 100vh;
+  padding-top: 80px;
 }
 .masthead .masthead-device-mockup {
   display: flex;
