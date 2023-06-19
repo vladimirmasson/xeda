@@ -11548,7 +11548,7 @@ footer a:hover, footer a:active, footer a:focus {
 
 .masthead {
   background-color: #f8f9fa;
-  background-image:url("../assets/img/back.png");
+  /*background-image:url("../assets/img/back.png");*/
   background-size:cover;
   padding-top: 9.5rem;
   padding-bottom: 5rem;
