@@ -11643,4 +11643,5 @@ footer a:hover, footer a:active, footer a:focus {
 
 video {
   border-radius: 10px;
+  overflow: hidden;
 }
