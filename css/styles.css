@@ -11646,7 +11646,7 @@ video {
   overflow: hidden;
 }
 
-.icon-feature::after {
+.icon-feature::after:not(:last-child) {
   content: "";
   position: absolute;
   border-left: 3px solid #ED8D8D;
