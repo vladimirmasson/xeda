@@ -11653,7 +11653,26 @@ video {
   border-left: 10px solid transparent;
   border-image: -webkit-linear-gradient(#2937f0, #9f1ae2);
   border-image-slice: 1;
+  height: 70px;
+  width: 50%;
+  bottom: 60px;
+  left: 10%;
+  border-radius: 15px;
+  
+}
 
+.roadmap2::after {
+  content: "";
+  position: relative;
+  border-top: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-image: -webkit-linear-gradient(#2937f0, #9f1ae2);
+  border-image-slice: 1;
+  height: 70px;
+  width: 50%;
+  bottom: 60px;
+  left: 10%;
+  border-radius: 15px;
   
 }
 
