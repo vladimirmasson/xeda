@@ -11646,7 +11646,7 @@ video {
   overflow: hidden;
 }
 
-.icon-feature .rm::after {
+.icon-feature::after {
   content: "";
   position: relative;
   border-left: 10px solid var(--bs-body-color);
