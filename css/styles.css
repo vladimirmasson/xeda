@@ -11646,7 +11646,7 @@ video {
   overflow: hidden;
 }
 
-.roadmap::after {
+.roadmap::before {
   content: "";
   position: relative;
   border-bottom: 10px solid transparent;
@@ -11660,8 +11660,7 @@ video {
   border-radius: 15px;
   
 }
-
-.roadmap2::after {
+.roadmap::after {
   content: "";
   position: relative;
   border-top: 10px solid transparent;
