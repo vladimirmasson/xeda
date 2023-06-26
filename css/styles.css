@@ -11646,7 +11646,7 @@ video {
   overflow: hidden;
 }
 
-.icon-feature::after:not(:last-child) {
+.icon-feature:not(:last-child)::after {
   content: "";
   position: relative;
   border-left: 10px solid var(--bs-body-color);
