@@ -11649,10 +11649,10 @@ video {
 .roadmap::after {
   content: "";
   position: relative;
+  border-bottom: 10px solid transparent;
   border-left: 10px solid transparent;
   border-image: -webkit-linear-gradient(#2937f0, #9f1ae2);
   border-image-slice: 1;
-  z-index: 1;
 
   
 }
