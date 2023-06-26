@@ -11646,11 +11646,15 @@ video {
   overflow: hidden;
 }
 
-.icon-feature:not(:last-child)::after {
-  content: "";
+.icon-feature::after {
+  content: "\007C";
   position: relative;
-  border-left: 10px solid var(--bs-body-color);
+  color: var(--bs-body-color);
   z-index: 1;
+}
+
+.icon-feature:last-child::after {
+  content: "";
 }
 
 
