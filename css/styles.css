@@ -11690,6 +11690,7 @@ video {
   margin: 0;
   top: 17px;
   position: relative;
+  opacity: 1 !important;
 }
 .timeline .col-2 {
   display: flex;
