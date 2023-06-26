@@ -11648,8 +11648,8 @@ video {
 
 .icon-feature::after:not(:last-child) {
   content: "";
-  position: absolute;
-  border-left: 3px solid #ED8D8D;
+  position: relative;
+  border-left: 10px solid var(--bs-body-color);
   z-index: 1;
 }
 
