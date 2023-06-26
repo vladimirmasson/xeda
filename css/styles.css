@@ -11646,16 +11646,13 @@ video {
   overflow: hidden;
 }
 
-.icon-feature::after {
+.icon-feature .rm::after {
   content: "";
   position: relative;
   border-left: 10px solid var(--bs-body-color);
   z-index: 1;
 }
 
-.icon-feature .last::after {
-  content: "";
-}
 
 
 .circle {
