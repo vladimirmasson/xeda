@@ -11646,6 +11646,13 @@ video {
   overflow: hidden;
 }
 
+.icon-feature::after {
+  content: "";
+  position: absolute;
+  border-left: 3px solid #ED8D8D;
+  z-index: 1;
+}
+
 
 .circle {
   padding: 13px 20px;
