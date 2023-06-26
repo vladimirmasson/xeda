@@ -11647,13 +11647,13 @@ video {
 }
 
 .icon-feature::after {
-  content: "\007C";
+  content: "";
   position: relative;
-  color: var(--bs-body-color);
+  border-left: 10px solid var(--bs-body-color);
   z-index: 1;
 }
 
-.icon-feature:last-child::after {
+.icon-feature .last::after {
   content: "";
 }
 
