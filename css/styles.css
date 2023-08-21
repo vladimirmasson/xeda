@@ -11551,7 +11551,6 @@ footer a:hover, footer a:active, footer a:focus {
   padding-top: 9.5rem;
   padding-bottom: 5rem;
   height: 100%;
-  min-height: 100vh;
   display: flex;
   justify-content: space-between;
   align-items: stretch;
