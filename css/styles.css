@@ -11641,6 +11641,9 @@ footer a:hover, footer a:active, footer a:focus {
 video {
   border-radius: 10px;
   overflow: hidden;
+  width: 100% !important;
+  height: 100% !important;
+  max-height: 56.25vw !important;
 }
 
 img {
