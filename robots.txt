@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://devis.ai/sitemap.xml
+Sitemap: https://xeda.io/sitemap.xml
