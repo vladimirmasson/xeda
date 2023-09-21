@@ -11660,7 +11660,7 @@ img {
 	width: 100%;
 	padding: 30px;
 	box-sizing: border-box;
-	background-color: yellow;
+	background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
 }
 
 .warning--active {
@@ -11669,6 +11669,7 @@ img {
 
 .warning__text {
 	margin-right: 30px;
+	color: white;
 }
 
 .warning__read {
