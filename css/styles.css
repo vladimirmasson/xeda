@@ -11656,11 +11656,11 @@ img {
 	bottom: 0;
 	left: 0;
 	display: none;
-	justify-content: center;
+	/*justify-content: center;
 	width: 100%;
 	padding: 30px;
 	box-sizing: border-box;
-	background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+	background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;*/
 }
 
 .warning--active {
@@ -11668,11 +11668,11 @@ img {
 }
 
 .warning__text {
-	margin-right: 30px;
-	color: white;
+	/*margin-right: 30px;
+	color: white;*/
 }
 
 .warning__read {
 	display: block;
-	margin-left: 15px;
+	/*margin-left: 15px;*/
 }
