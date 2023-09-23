@@ -11553,10 +11553,11 @@ footer a:hover, footer a:active, footer a:focus {
   height: 100%;
   display: flex;
   justify-content: space-between;
-  align-items: stretch;
-  align-content: space-between;
+  align-items: center;
+  /*align-content: space-between;*/
   flex-direction: row-reverse;
   flex-wrap: wrap;
+  min-height: 80vh;
 }
 .masthead .masthead-device-mockup {
   display: flex;
