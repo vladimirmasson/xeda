@@ -11409,7 +11409,7 @@ section.cta {
   background-image: url("../assets/img/garda.webp");
   background-position: center;
   background-size: cover;
-  height: 100vh;
+  height: 100%;
   display: flex;
   align-items: stretch;
   align-content: space-around;
